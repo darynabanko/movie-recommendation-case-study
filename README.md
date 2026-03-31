@@ -1,8 +1,8 @@
-# 🎬 Movie Recommendation App (Case Study)
+# Movie Recommendation App (Case Study)
 
 This is a portfolio case study for a movie recommendation web app focused on solving one problem: helping users find relevant movies faster.
 
-## 👩‍💼 Role and contributions
+## Role and contributions
 
 Role: Business Analyst / Project Coordinator
 
@@ -14,19 +14,19 @@ In this project, I:
 - Planned delivery timeline and milestones
 - Aligned product documentation and execution artifacts
 
-## 🧩 Project overview
+## Project overview
 
 Streaming platforms offer huge catalogs, but discovery is often slow and frustrating.  
 This case study proposes a content-based recommendation app that suggests relevant movies using metadata and user feedback.
 
-## ✅ Core MVP features
+## Core MVP features
 
 - Search movies by title
 - View movie details (description, genres, rating)
 - Get recommendations based on selected movie
 - Rate movies from 1 to 5 stars
 
-## 🛠️ Tools and technologies
+## Tools and technologies
 
 ### Product planning
 - Jira (backlog, epics, stories, progress tracking)
@@ -39,7 +39,7 @@ This case study proposes a content-based recommendation app that suggests releva
 - Recommendation engine: pandas + scikit-learn (TF-IDF and cosine similarity)
 - Data storage: SQLite or PostgreSQL
 
-## 📊 Jira workflow snapshots
+## Jira workflow snapshots
 
 The screenshots below show how requirements moved from planning to delivery.
 
