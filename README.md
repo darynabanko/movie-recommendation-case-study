@@ -44,16 +44,16 @@ This case study proposes a content-based recommendation app that suggests releva
 The screenshots below show how requirements moved from planning to delivery.
 
 ### Backlog and epic structure
-![Backlog and Epic Structure](assets/jira-backlog-epics.png)
+![Backlog and Epic Structure](jira-backlog-epics.png)
 
 ### Sprint planning
-![Sprint Planning](assets/jira-sprint-planning.png)
+![Sprint Planning](jira-sprint-planning.png)
 
 ### Board execution (work in progress)
-![Board Execution](assets/jira-board-execution.png)
+![Board Execution](jira-board-execution.png)
 
 ### User story quality (description + acceptance criteria)
-![User Story with Acceptance Criteria](assets/jira-story-acceptance-criteria.png)
+![User Story with Acceptance Criteria](jira-story-acceptance-criteria.png)
 
 ### Timeline and roadmap view
-![Timeline Roadmap](assets/jira-timeline-roadmap.png)
+![Timeline Roadmap](jira-timeline-roadmap.png)
